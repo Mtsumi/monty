@@ -6,7 +6,8 @@ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 The monty program
 Usage: monty file
 where file is the path to the file containing Monty byte code
-Tasks
+
+##Tasks
 Implement the push and pall opcodes
 push pushes an element to the stack
 pall prints all the values on the stack, starting from the top of the stack
